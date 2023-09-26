@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-printf("this is a sampl");
+printf("this is a sample");
 }
